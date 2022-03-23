@@ -1,0 +1,5 @@
+# La carpeta de node modules
+node_modules
+
+# Todos los archivos creados
+table*

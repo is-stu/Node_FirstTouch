@@ -1,0 +1,22 @@
+{
+  "name": "ftouchnode",
+  "version": "0.0.1",
+  "description": "Simple multiply app to learn nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:th3DarkGhost/Node_FirstTouch.git"
+  },
+  "author": "Stewar Marin",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
